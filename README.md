@@ -1,7 +1,7 @@
-# TUGAS BESAR
-# **Modul 4 Practicum Report**
+# UJIAN AKHIR SEMESTER
+# **TUGAS BESAR SISTEM ADMINISTRASI SERVER**
 
-### By : Reksa Aldian Rahmandy Putra dan Fiandio Adhi Pradana
+### By : Reksa Aldian Rahmandy Putra (1202192048) dan Fiandio Adhi Pradana (1202192034)
 ----
 
 LXC yang kita perlukan adalah :
