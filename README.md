@@ -54,6 +54,8 @@ Hasil Ansible Ci
 
 
 lalu kita akses http://kelompok11.fpsas/app
+
+
 ![39 (HASIL CI)](https://user-images.githubusercontent.com/95138486/152293100-35db17b9-f4df-4c00-8eba-6d65dd0ee4c4.png)
 
 
@@ -66,11 +68,13 @@ Set domain pada Laravel dengan membuat install-laravel.yml
 
 
 php handlers
+
 ![12 (CD PHP HANDLERS MAINYML)](https://user-images.githubusercontent.com/95138486/152293319-be8f11c5-96c8-4e61-917a-c2dbdc5fcff2.png)
 
 
 
 php tasks
+
 ![11 (CD PHP TASKS MAINYML)](https://user-images.githubusercontent.com/95138486/152293490-8ca6242a-3d3e-4c87-b99f-bb0123f4adb8.png)
 
 
