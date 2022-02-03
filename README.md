@@ -177,6 +177,12 @@ db templates my.cnf
 
 ![20 (CD DB TEMPLATES MYCNF)](https://user-images.githubusercontent.com/95138486/152296568-7df2b373-50f9-41de-ae35-5a7b268e21a7.png)
 
+Hasil Ansible Ci
+
+
+![50 (ANSIBLE PLAYBOOK MARIADB)](https://user-images.githubusercontent.com/95138486/152297823-21d2f753-1692-465e-91a2-980853299f3c.png)
+
+
 ```
 set host utama
 ```
