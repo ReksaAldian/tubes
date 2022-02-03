@@ -203,7 +203,7 @@ lakukan grouping pada host untuk memfokuskan lxc sesuai yang diperlukan
 
 
 ```
-Host Grouping
+NOTEPAD
 ```
 ![51 (NOTEPAD)](https://user-images.githubusercontent.com/95138486/152298014-8697401c-1255-41cb-9f00-dd6265631d05.png)
 
