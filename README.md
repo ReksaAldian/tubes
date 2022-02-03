@@ -186,6 +186,7 @@ Hasil Ansible Ci
 ```
 set host utama
 ```
+
 nano /etc/hosts
 
 ![37 (NANO ETC HOSTS)](https://user-images.githubusercontent.com/95138486/152296649-bc5936db-f077-41ab-b28a-441cdb099dc9.png)
@@ -194,10 +195,17 @@ nano /etc/hosts
 ```
 Host Grouping
 ```
+
 lakukan grouping pada host untuk memfokuskan lxc sesuai yang diperlukan
 
 ![2 (NANO HOSTS ANSIBLE)](https://user-images.githubusercontent.com/95138486/152296712-e48ca130-b1f6-44ad-a2c5-41540ea5f274.png)
 
+
+
+```
+Host Grouping
+```
+![51 (NOTEPAD)](https://user-images.githubusercontent.com/95138486/152298014-8697401c-1255-41cb-9f00-dd6265631d05.png)
 
 
 
